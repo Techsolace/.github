@@ -1,5 +1,5 @@
 <div align="center">
 
-![keep it simple. Design Develop build.](images/github-banner.png)
+![keep it simple. Design Develop build.](images/banner2.png)
 
 </div>
